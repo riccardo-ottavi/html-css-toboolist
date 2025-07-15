@@ -63,51 +63,57 @@ section {
 }
 
 .blue-label {
-    border-radius: 20%;
+    border-radius: 35%;
     border: solid 3px black;
     background-color: blue;
     color: white;
     font-size: 12px;
+    padding: 5px 5px;
 }
 
 .purple-label {
-    border-radius: 20%;
+    border-radius: 35%;
     border: solid 3px black;
     background-color: rgb(187, 0, 255);
     color: white;
     font-size: 12px;
+    padding: 5px 5px;
 }
 
 .green-label {
-    border-radius: 20%;
+    border-radius: 35%;
     border: solid 3px black;
     background-color: rgb(14, 99, 72);
     color: white;
     font-size: 12px;
+    padding: 5px 5px;
 }
 
 .orange-label {
-    border-radius: 20%;
+    border-radius: 35%;
     border: solid 3px black;
     background-color: rgb(255, 153, 0);
     color: white;
     font-size: 12px;
+    padding: 5px 5px;
 }
 
 .pink-label {
-    border-radius: 20%;
+    border-radius: 35%;
     border: solid 3px black;
     background-color: rgb(242, 0, 255);
     color: white;
     font-size: 12px;
+    padding: 5px 5px;
 }
 
 .light-green-lable{
-    border-radius: 20%;
+    border-radius: 35%;
     border: solid 3px black;
     background-color: rgb(18, 205, 52);
     color: white;
     font-size: 12px;
+    padding: 5px 5px;
 }
 
 section * {
