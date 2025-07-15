@@ -32,10 +32,12 @@ main {
 
 button {
     margin: 15px;
+    margin-left: 60px;
 }
 
 #but1 {
     background-color: rgb(0, 102, 255) ;
+    margin-right: 0px;
 }
 
 #button-header {
@@ -45,3 +47,8 @@ button {
 .label-border {
     border: solid 3px black;
 }
+
+.margin-left {
+    padding-left: 50PX;
+}
+
