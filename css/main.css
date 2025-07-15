@@ -50,6 +50,7 @@ button {
     margin-right: 0px;
     color: white;
     border:2px solid #43AEF5;
+    margin-left: 52px;
 }
 
 #button-header {
@@ -154,5 +155,6 @@ section * {
     display: inline-block;
     margin-bottom: 10px;
 }
+
 
 
