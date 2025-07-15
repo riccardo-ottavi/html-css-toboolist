@@ -4,7 +4,6 @@
     margin: 0;
     box-sizing: border-box;   
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    
 }
 
 body {
@@ -16,27 +15,21 @@ h1 {
     font-size: 50px;
     display: inline-block;
     vertical-align: 15%;
-    
 }
 
 /*regola sfondo bianco dentro sezioni */
 .white-back{
-    background-color: white;
-    
+    background-color: white; 
 }
 
 main {
     width: 70%;
     margin:auto;
-    
-    
 }
 
 /*titolo e logo pagina */
 #page-header {
     border-bottom: solid 40px #F6F8FA;
-    
-    
 }
 
 button {
