@@ -62,4 +62,55 @@ section {
     padding-top: 25px;
 }
 
+.blue-label {
+    border-radius: 20%;
+    border: solid 3px black;
+    background-color: blue;
+    color: white;
+    font-size: 12px;
+}
+
+.purple-label {
+    border-radius: 20%;
+    border: solid 3px black;
+    background-color: rgb(187, 0, 255);
+    color: white;
+    font-size: 12px;
+}
+
+.green-label {
+    border-radius: 20%;
+    border: solid 3px black;
+    background-color: rgb(14, 99, 72);
+    color: white;
+    font-size: 12px;
+}
+
+.orange-label {
+    border-radius: 20%;
+    border: solid 3px black;
+    background-color: rgb(255, 153, 0);
+    color: white;
+    font-size: 12px;
+}
+
+.pink-label {
+    border-radius: 20%;
+    border: solid 3px black;
+    background-color: rgb(242, 0, 255);
+    color: white;
+    font-size: 12px;
+}
+
+.light-green-lable{
+    border-radius: 20%;
+    border: solid 3px black;
+    background-color: rgb(18, 205, 52);
+    color: white;
+    font-size: 12px;
+}
+
+section * {
+    font-size: 20px;
+}
 
