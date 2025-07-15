@@ -35,6 +35,8 @@ main {
 button {
     margin: 15px;
     margin-left: 60px;
+    padding: 5px 5px;
+    border-radius: 15%;
 }
 
 #but1 {
