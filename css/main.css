@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: grey;
+    background-color: #F6F8FA;
 }
 
 /*titolo pagina*/
@@ -29,7 +29,7 @@ main {
 }
 
 #page-header {
-    border-bottom: solid 40px gray;
+    border-bottom: solid 40px #F6F8FA;
 }
 
 button {
@@ -37,15 +37,19 @@ button {
     margin-left: 60px;
     padding: 5px 5px;
     border-radius: 15%;
+    color: #C8C9C6;
+    border:3px solid #C8C9C6;
 }
 
 #but1 {
-    background-color: rgb(0, 102, 255) ;
+    background-color: #43AEF5;
     margin-right: 0px;
+    color: white;
+    border:2px solid #43AEF5;
 }
 
 #button-header {
-    border-bottom: solid 4px gray;
+    border-bottom: solid 4px #F6F8FA;
 }
 
 .label-border {
@@ -67,67 +71,74 @@ section {
 .blue-label {
     border-radius: 35%;
     border: solid 3px black;
-    background-color: blue;
+    background-color: #43AEF5;
     color: white;
     font-size: 12px;
     padding: 5px 5px;
     display: inline-block;
     margin-bottom: 10px;
+    border:2px solid #43AEF5;
 }
 
 .purple-label {
     border-radius: 35%;
     border: solid 3px black;
-    background-color: rgb(187, 0, 255);
+    background-color: #9E73E4;
     color: white;
     font-size: 12px;
     padding: 5px 5px;
     display: inline-block;
     margin-bottom: 10px;
+    border: 3px solid #9E73E4;
 }
 
 .green-label {
     border-radius: 35%;
     border: solid 3px black;
-    background-color: rgb(14, 99, 72);
+    background-color: #66C1A9;
     color: white;
     font-size: 12px;
     padding: 5px 5px;
     display: inline-block;
     margin-bottom: 10px;
+    border: 3px solid #66C1A9;
 }
 
 .orange-label {
     border-radius: 35%;
     border: solid 3px black;
-    background-color: rgb(255, 153, 0);
+    background-color: #F69C32;
     color: white;
     font-size: 12px;
     padding: 5px 5px;
     display: inline-block;
     margin-bottom: 10px;
+    border: 3px solid #F69C32
 }
 
 .pink-label {
     border-radius: 35%;
     border: solid 3px black;
-    background-color: rgb(242, 0, 255);
+    background-color: #CC6AA4;
     color: white;
     font-size: 12px;
     padding: 5px 5px;
     display: inline-block;
     margin-bottom: 10px;
+    border: 3px solid #CC6AA4;
+    
 }
 
 .light-green-lable{
     border-radius: 35%;
     border: solid 3px black;
-    background-color: rgb(18, 205, 52);
+    background-color: #B0CB23;
     color: white;
     font-size: 12px;
     padding: 5px 5px;
     display: inline-block;
     margin-bottom: 10px;
+    border: 3px solid #B0CB23;
 }
 
 section * {
