@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;   
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
 
@@ -13,7 +14,9 @@ body {
 /*titolo pagina*/
 h1 {
     font-size: 50px;
-    display: inline;
+    display: inline-block;
+    vertical-align: 15%;
+    
 }
 
 .white-back{
@@ -30,11 +33,12 @@ main {
 
 #page-header {
     border-bottom: solid 40px #F6F8FA;
+    
+    
 }
 
 button {
     margin: 15px;
-    margin-left: 60px;
     padding: 5px 5px;
     border-radius: 15%;
     color: #C8C9C6;
@@ -65,8 +69,7 @@ button {
 }
 
 section {
-    padding-top: 20px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 2px;
 }
 
 .blue-label {
