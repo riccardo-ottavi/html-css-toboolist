@@ -1,5 +1,15 @@
+/*regole generali */
+* {
+    background-color: gray;
+}
+
+
 /*titolo pagina*/
 h1 {
     font-size: 50px;
     display: inline;
+}
+
+.white-back{
+    background-color: white;
 }
