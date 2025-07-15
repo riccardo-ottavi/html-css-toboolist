@@ -41,3 +41,7 @@ button {
 #button-header {
     border-bottom: solid 4px gray;
 }
+
+.label-border {
+    border: solid 3px black;
+}
