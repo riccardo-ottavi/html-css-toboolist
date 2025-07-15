@@ -19,6 +19,7 @@ h1 {
     
 }
 
+/*regola sfondo bianco dentro sezioni */
 .white-back{
     background-color: white;
     
@@ -31,6 +32,7 @@ main {
     
 }
 
+/*titolo e logo pagina */
 #page-header {
     border-bottom: solid 40px #F6F8FA;
     
@@ -42,7 +44,7 @@ button {
     padding: 5px 5px;
     border-radius: 15%;
     color: #C8C9C6;
-    border:3px solid #C8C9C6;
+    border:2px solid #C8C9C6;
 }
 
 #but1 {
@@ -57,10 +59,6 @@ button {
     border-bottom: solid 4px #F6F8FA;
 }
 
-.label-border {
-    border: solid 3px black;
-}
-
 .margin-left {
     padding-left: 50px;
 }
@@ -73,6 +71,7 @@ section {
     padding-top: 2px;
 }
 
+/*etichette colorate*/
 .blue-label {
     border-radius: 35%;
     border: solid 3px black;
