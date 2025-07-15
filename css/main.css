@@ -71,6 +71,8 @@ section {
     color: white;
     font-size: 12px;
     padding: 5px 5px;
+    display: inline-block;
+    margin-bottom: 10px;
 }
 
 .purple-label {
@@ -80,6 +82,8 @@ section {
     color: white;
     font-size: 12px;
     padding: 5px 5px;
+    display: inline-block;
+    margin-bottom: 10px;
 }
 
 .green-label {
@@ -89,6 +93,8 @@ section {
     color: white;
     font-size: 12px;
     padding: 5px 5px;
+    display: inline-block;
+    margin-bottom: 10px;
 }
 
 .orange-label {
@@ -98,6 +104,8 @@ section {
     color: white;
     font-size: 12px;
     padding: 5px 5px;
+    display: inline-block;
+    margin-bottom: 10px;
 }
 
 .pink-label {
@@ -107,6 +115,8 @@ section {
     color: white;
     font-size: 12px;
     padding: 5px 5px;
+    display: inline-block;
+    margin-bottom: 10px;
 }
 
 .light-green-lable{
@@ -116,9 +126,18 @@ section {
     color: white;
     font-size: 12px;
     padding: 5px 5px;
+    display: inline-block;
+    margin-bottom: 10px;
 }
 
 section * {
     font-size: 20px;
+    padding-top: 8px;
 }
+
+#no-label-row {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
 
