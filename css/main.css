@@ -7,7 +7,6 @@
 
 }
 
-
 /*titolo pagina*/
 h1 {
     font-size: 50px;
@@ -22,4 +21,8 @@ main {
     height: 80%;
     width: 80%;
     margin:auto;
+}
+
+header {
+    border-bottom: solid 30px gray;
 }
