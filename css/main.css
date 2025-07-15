@@ -66,7 +66,7 @@ section {
 
 /*etichette colorate*/
 .blue-label {
-    border-radius: 35%;
+    border-radius: 50%;
     border: solid 3px black;
     background-color: #43AEF5;
     color: white;
@@ -78,7 +78,7 @@ section {
 }
 
 .purple-label {
-    border-radius: 35%;
+    border-radius: 50%;
     border: solid 3px black;
     background-color: #9E73E4;
     color: white;
@@ -90,7 +90,7 @@ section {
 }
 
 .green-label {
-    border-radius: 35%;
+    border-radius: 50%;
     border: solid 3px black;
     background-color: #66C1A9;
     color: white;
@@ -102,7 +102,7 @@ section {
 }
 
 .orange-label {
-    border-radius: 35%;
+    border-radius: 50%;
     border: solid 3px black;
     background-color: #F69C32;
     color: white;
@@ -114,7 +114,7 @@ section {
 }
 
 .pink-label {
-    border-radius: 35%;
+    border-radius: 50%;
     border: solid 3px black;
     background-color: #CC6AA4;
     color: white;
@@ -127,7 +127,7 @@ section {
 }
 
 .light-green-lable{
-    border-radius: 35%;
+    border-radius: 50%;
     border: solid 3px black;
     background-color: #B0CB23;
     color: white;
